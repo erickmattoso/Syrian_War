@@ -89,4 +89,8 @@ target/
 .mypy_cache/
 
 # Files
-00.*.ipynb
+notebooks/00-a-plot.ipynb
+notebooks/00-b-plot_data_points.ipynb
+notebooks/00-b-plot_data_shape.ipynb
+notebooks/00-c-reverse_data_points.ipynb
+notebooks/00-c-reverse_data_shape.ipynb
